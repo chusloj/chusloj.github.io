@@ -1,3 +1,3 @@
 # chusloj.github.io
 
-Personal website
+Personal website: [chusloj.github.io](https://chusloj.github.io)
